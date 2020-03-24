@@ -1,0 +1,1 @@
+statis void main ejemplo
