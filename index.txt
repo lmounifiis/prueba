@@ -1,6 +1,3 @@
 HOLA
 Holas
 Lucio Morales Ortega
-
-
-primer commit
